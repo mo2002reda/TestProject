@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 -add Modification For First Time
+=======
+add First edit at file
+>>>>>>> origin/master
